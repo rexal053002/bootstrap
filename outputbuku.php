@@ -40,11 +40,11 @@
                  <th>Harga Buku</th>
              </tr>
              <tr>
-                 <th><?php echo $;?></th>
-                 <th><?php echo $;?></th>
-                 <th><?php echo $;?></th>
-                 <th><?php echo $;?></th>
-                 <th><?php echo $;?></th>
+                 <th><?php echo $judul;?></th>
+                 <th><?php echo $kb;?></th>
+                 <th><?php echo $pg;?></th>
+                 <th><?php echo $jenis;?></th>
+                 <th><?php echo $hb;?></th>
              </tr>
         </table>
         </div>

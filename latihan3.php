@@ -54,6 +54,16 @@
 </div>
     </div>
 </div>
+                <div class="modal fade bd-example-modal-xl" tabindex="-1" role="dialog" aria-labelledby="myExtraLargeModalLabel" aria-hidden="true">
+                   <div class="modal-dialog modal-xl">
+                     <div class="modal-content">
+                         
+                     <div class="container">
+                         <div class="col-md-12">
+                            <div class="card">
+                            <div class="card-header">Masukan Referensi Buku yang Anda Beli
+                            <div class="card-body">
+
                 <?php 
                  if(isset($_POST['simpan'])){
                      $nama = $_POST['nama'];
@@ -108,7 +118,9 @@
                        <button type="reset" name="reset" class="btn btn-warning">Reset</button>
                     </div>    
                 </form>  
-                
+
+                     
+
                               </div>
                             </div>
                         </div>
